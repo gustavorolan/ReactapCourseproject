@@ -8,7 +8,7 @@ const Contato = () => {
     // eslint-disable-next-line no-useless-concat
     <section className={Styles.Contato + " " + "animeLeft"}>
       <Head title="Contato" description="Entre em Contato" />
-      <img src={foto} alt="fuckoff" />
+      <img src={foto} alt="" />
       <div>
         <h1>Entre em Contato</h1>
         <ul className={Styles.Dados}>
